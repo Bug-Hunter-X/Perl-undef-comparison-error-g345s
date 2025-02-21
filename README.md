@@ -1,0 +1,1 @@
+This repository contains a Perl code example demonstrating an uncommon error related to handling undef values. The original code incorrectly uses the eq operator for undef comparison. The solution provides a better approach to handling undef using defined().
